@@ -1,8 +1,3 @@
-The source code for my youtube stickman tutorials!
+We referred to the code in the video below.
 
-Assests/Scripts - have all the scripts made in the tutorials.
-
-latest tutorial :
-
-How to create spiderman like ropes for ragdoll! :
-https://youtu.be/XVdeb0WaH3w
+https://www.youtube.com/watch?v=XVdeb0WaH3w&t=978s
